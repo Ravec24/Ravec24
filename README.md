@@ -16,18 +16,12 @@
 
 ## 🚀 About Me
 
-class Ravec:
-def init(self):
-self.username = "Ravec24"
-self.role = "Full Stack AI Web Developer"
-self.passion = ["Real World Problem Solving", "AI Innovation", "Creative Coding"]
-self.mindset = "If it's challenging and fun, I'm probably building it"
-self.current_focus = "Building intelligent web applications that matter"
-
-text
-def get_philosophy(self):
-return "Every line of code should serve a purpose - whether it's solving real problems or sparking joy through innovation"
-text
+- **Username:** Ravec24
+- **Role:** Full Stack AI Web Developer
+- **Passion:** Real World Problem Solving, AI Innovation, Creative Coding
+- **Mindset:** If it's challenging and fun, I'm probably building it
+- **Current Focus:** Building intelligent web applications that matter
+- **Philosophy:** Every line of code should serve a purpose - whether it's solving real problems or sparking joy through innovation
 
 ---
 
@@ -83,14 +77,10 @@ _Building innovative AI solutions that impressed the judges_
 
 <div align="center">
 
-const ravec_gaming = {
-fps_mastery: "Counter-Strike 2",
-epic_adventures: "Elden Ring",
-sports_simulation: "FIFA",
-philosophy: "Gaming sharpens reflexes, coding sharpens minds"
-}
-
-text
+- **FPS Mastery:** Counter-Strike 2
+- **Epic Adventures:** Elden Ring
+- **Sports Simulation:** FIFA
+- **Philosophy:** Gaming sharpens reflexes, coding sharpens minds
 
 </div>
 
