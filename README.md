@@ -77,9 +77,9 @@ _Building innovative AI solutions that impressed the judges_
 
 <div align="center">
 
-- **FPS Mastery:** Counter-Strike 2
-- **Epic Adventures:** Elden Ring
-- **Sports Simulation:** FIFA
+- **FPS Mastery:** CS 2
+- **Epic RPGs:** Elden Ring, Witcher 3
+- **Sports Simulation:** FC 25 & Baseball 9
 - **Philosophy:** Gaming sharpens reflexes, coding sharpens minds
 
 </div>
